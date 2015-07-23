@@ -1,0 +1,12 @@
+{
+  "name": "jaredjennings/rhn_satellite",
+  "version": "0.1.0",
+  "author": "Jared Jennings",
+  "summary": "Provide the functionality of the rhn_satellite module from CMITS (boilerplate)",
+  "license": "Apache-2.0",
+  "source": "https://github.com/jaredjennings/puppet-cmits-rhn_satellite",
+  "project_page": "https://github.com/jaredjennings/puppet-cmits-rhn_satellite",
+  "issues_url": "https://github.com/jaredjennings/puppet-cmits-rhn_satellite/issues",
+  "dependencies": []
+}
+
